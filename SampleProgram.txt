@@ -1,0 +1,11 @@
+* 400
+twld j, 777
+twst j, 776
+twld k, 775
+twst k, 774
+and j
+and k
+and kj
+clr j
+clr k
+stop
